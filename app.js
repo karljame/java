@@ -18,3 +18,17 @@ let numString = 2
 let op = (parseInt(numString) + parseInt(numString + numString) + parseInt(numString + numString + numString))
 const answer = (numString + '+' + (numString + numString) + '+' + (numString + numString + numString) + '=' + op)
 console.log(answer)
+
+// 4 ÜL
+
+let n = 5
+
+let n2 = 12
+
+if (n2 > n) {
+    console.log('n on väiksem')
+}
+
+else {
+    console.log('n2 on väiksem')
+}
